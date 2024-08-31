@@ -1,0 +1,19 @@
+# model
+model_name_or_path: /root/autodl-tmp/hug/models--Qwen--Qwen1.5-0.5B-chat/snapshots/4d14e384a4b037942bb3f3016665157c8bcb70ea
+adapter_name_or_path: //root/autodl-tmp/LLaMA-Factory/roleplay/output/Qwen1.5-0.5B-chat/SanGuoYanyi_Parallel
+stage: sft
+finetuning_type: lora
+lora_target: all
+#quantization_bit: 8
+
+#infer_backend: vllm
+
+# dataset
+template: default
+# temperature: 0.
+# do_sample: false
+#cutoff_len: 1024
+# repetition_penalty: 1.3
+# temperature: 0.7
+# top_k: 40
+# top_p: 0.8
