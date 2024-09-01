@@ -34,10 +34,12 @@
 
 
 
-[![链滴](/root/autodl-tmp/LLaMA-Factory/assets/Quicker_20240901_140419.png)](https://ld246.com)
+[![](/root/autodl-tmp/LLaMA-Factory/assets/Quicker_20240901_140419.png)](https://ld246.com)
 
 
 ### **Style-LLM-Chat-Single**
 
 
-[![链滴](/root/autodl-tmp/LLaMA-Factory/assets/Quicker_20240901_141029.png)]()
+[![](/root/autodl-tmp/LLaMA-Factory/assets/Quicker_20240901_141029.png)]()
+
+h
