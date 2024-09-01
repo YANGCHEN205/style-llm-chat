@@ -1,6 +1,6 @@
 # model
 model_name_or_path: /root/autodl-tmp/hug/models--Qwen--Qwen1.5-0.5B-chat/snapshots/4d14e384a4b037942bb3f3016665157c8bcb70ea
-adapter_name_or_path: //root/autodl-tmp/LLaMA-Factory/roleplay/output/Qwen1.5-0.5B-chat/SanGuoYanyi_Parallel
+adapter_name_or_path: /root/autodl-tmp/LLaMA-Factory/roleplay/output/Qwen1.5-0.5B-chat/SanGuoYanyi_Parallel
 stage: sft
 finetuning_type: lora
 lora_target: all

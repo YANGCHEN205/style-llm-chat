@@ -1,5 +1,5 @@
 # model
-model_name_or_path: /root/autodl-tmp/hug/models--Qwen--Qwen1.5-0.5B/snapshots/8f445e3628f3500ee69f24e1303c9f10f5342a39
+model_name_or_path: /root/autodl-tmp/hug/models--01-ai--Yi-1.5-6B-Chat/snapshots/15fc040a9c9a81098f05ded04e6e519ed91b4f37
 #model_name_or_path: /media/xk/D6B8A862B8A8433B/data/qwen2_05b
 # method
 stage: sft
@@ -33,7 +33,7 @@ num_train_epochs: 3.0
 lr_scheduler_type: cosine
 warmup_ratio: 0.01
 fp16: true
-max_steps: 500
+max_steps: 1000
 save_total_limit: 1
 
 # eval

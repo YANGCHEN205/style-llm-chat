@@ -14,7 +14,7 @@ def main(yaml_path_):
 
 if __name__ == "__main__":
     #1.sft指令微调
-    yaml_path = '/root/autodl-tmp/LLaMA-Factory/roleplay/qwen2_lora_sft.yaml'
+    yaml_path = '/root/autodl-tmp/LLaMA-Factory/roleplay/lora_sft.yaml'
     # 2.奖励模型训练
     # yaml_path = '/root/autodl-tmp/LLaMA-Factory/examples/roleplay/qwen2_lora_reward.yaml'
     # 3.rlhf-ppo训练
