@@ -34,12 +34,10 @@
 
 
 
-[![](/root/autodl-tmp/LLaMA-Factory/assets/Quicker_20240901_140419.png)](https://ld246.com)
+![image.png](/root/autodl-tmp/LLaMA-Factory/assets/Quicker_20240901_140419.png)
 
 
 ### **Style-LLM-Chat-Single**
 
 
-[![](/root/autodl-tmp/LLaMA-Factory/assets/Quicker_20240901_141029.png)]()
-
-h
+![image.png](/root/autodl-tmp/LLaMA-Factory/assets/Quicker_20240901_141029.png)
